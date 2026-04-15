@@ -2,5 +2,10 @@
   "name": "claude-helper",
   "version": "1.0.0",
   "description": "Lean workflow skills. Superpowers-equivalent, 50% fewer tokens.",
-  "author": "yoonhoshin"
+  "author": {
+    "name": "Yoonho Shin",
+    "url": "https://github.com/someGuy332"
+  },
+  "homepage": "https://github.com/someGuy332/claude-helper",
+  "repository": "https://github.com/someGuy332/claude-helper"
 }
