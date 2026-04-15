@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-helper",
+  "description": "helps claude plan and execute project, like superpowers but less tokens used",
+  "owner": {
+    "name": "Yoonho Shin",
+    "url": "https://github.com/someGuy332"
+  },
+  "plugins": [
+    {
+      "name": "claude-helper",
+      "description": "helps claude plan and execute project, like superpowers but less tokens used",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

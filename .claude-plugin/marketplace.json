@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-helper",
+  "description": "Lean workflow skills. Superpowers-equivalent, 50% fewer tokens.",
+  "owner": {
+    "name": "someGuy332",
+    "url": "https://github.com/someGuy332"
+  },
+  "plugins": [
+    {
+      "name": "claude-helper",
+      "description": "Lean workflow skills. Superpowers-equivalent, 50% fewer tokens.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
